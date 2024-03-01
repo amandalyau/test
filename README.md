@@ -1,2 +1,3 @@
 # test
-This repository is for practicing.
+My name is Amanda Yau. I'm a neuroscience student who also enjoys creating.
+I'm currently trying to learn interface design.
